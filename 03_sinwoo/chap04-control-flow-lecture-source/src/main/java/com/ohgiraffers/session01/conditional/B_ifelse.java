@@ -1,4 +1,4 @@
-package com.ogiraffers.session01.conditional;
+package com.ohgiraffers.session01.conditional;
 
 import java.util.Scanner;
 

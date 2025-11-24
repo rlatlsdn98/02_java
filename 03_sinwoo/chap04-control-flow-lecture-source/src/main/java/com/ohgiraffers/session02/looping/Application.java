@@ -1,4 +1,4 @@
-package com.ogiraffers.session02.looping;
+package com.ohgiraffers.session02.looping;
 
 public class Application {
     public static void main(String[] args) {

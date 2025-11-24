@@ -1,4 +1,4 @@
-package com.ogiraffers.session02.looping;
+package com.ohgiraffers.session02.looping;
 
 import java.util.Random;
 import java.util.Scanner;
